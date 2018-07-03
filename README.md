@@ -17,12 +17,17 @@ The basic files and directories of a Flask app.
 
         virtualenv -p /usr/local/bin/python3.6 venv
 
-5. In the same folder run:
+5. Run:
+
+
+        source venv/bin/activate
+
+6. In the same folder run:
 
 
         pip install -r requirements.txt
 
-6. Go to the app folder and run:
+7. Go to the app folder and run:
 
 
         FLASK_APP=hello.py flask run

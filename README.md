@@ -58,3 +58,30 @@ The basic files and directories of a Flask app.
 
 
 
+# poker_trainer_website
+
+### Question
+
+
+
+### Hypothesis
+
+
+
+### Data Sources
+
+
+
+### Data Descriptions
+
+
+
+### Steps
+
+
+
+### Conclusion
+
+
+
+

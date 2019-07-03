@@ -30,4 +30,31 @@ The basic files and directories of a Flask app.
 7. Go to the app folder and run:
 
 
-        FLASK_APP=hello.py flask run
+        FLASK_APP=main.py flask run
+# poker_trainer_website
+
+### Question
+
+
+
+### Hypothesis
+
+
+
+### Data Sources
+
+
+
+### Data Descriptions
+
+
+
+### Steps
+
+
+
+### Conclusion
+
+
+
+
